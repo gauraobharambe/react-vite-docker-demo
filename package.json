@@ -15,7 +15,7 @@
     "containerization",
     "react docker",
     "react-docker"
-  ]
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
