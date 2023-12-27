@@ -1,0 +1,17 @@
+services:
+  react-vite-docker-demo:
+    image: "react-vite-docker-demo"
+    container_name: react-vite-docker-demo
+    build:
+      context: .
+    environment:
+      node: production
+    ports:
+      - 4173:4173
+    # develop:
+    #   watch:
+    #     - path: ./package.json
+    #       action: rebuild
+    #     - path: ./app
+    #       target: /app
+    #       action: sync
