@@ -1,3 +1,6 @@
+### Last Build Status:
+[![Docker Image CI](https://github.com/gauraobharambe/react-vite-docker-demo/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/gauraobharambe/react-vite-docker-demo/actions/workflows/docker-image.yml)
+
 ### Running the Project
 
 To run this project locally, follow these steps:
