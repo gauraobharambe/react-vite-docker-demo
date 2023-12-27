@@ -2,6 +2,20 @@
   "name": "react-vite-docker-demo",
   "private": true,
   "version": "0.0.0",
+  "description":"Demonstration of how docker can be integrated in React project created using Vite."
+  "keywords": [
+    "react",
+    "vite",
+    "typescript",
+    "docker",
+    "compose",
+    "docker compose",
+    "docker-compose",
+    "containers",
+    "containerization",
+    "react docker",
+    "react-docker"
+  ]
   "type": "module",
   "scripts": {
     "dev": "vite",
